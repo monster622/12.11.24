@@ -7,3 +7,4 @@ git log - посмотреть commit, который есть
 git checkout <имя ветки>
 git merge имя ветки 
 git branch -d имя
+git remote показать все удаленные репозиторий
